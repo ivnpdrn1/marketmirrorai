@@ -1,3 +1,8 @@
+
+https://www.amazon.com/Apple-2024-Desktop-Computer-10%E2%80%91core/dp/B0DLBX4B1K/ref=sr_1_3?crid=UOIXCTN4XNSB&dib=eyJ2IjoiMSJ9.uG8aAFoU6qzomJfdWHmhtoPg3R1DDdP_BJ-pmMREWQ1xux6vQB84lK4AA1q1DQeRt7K2IqKw5Zv5EF-Qze7KrkzzSOhi3M9PBPeMVElnYHCzyYPV20t0UbAWLDdfYhgEAU2wqvlIsmQL8sxoE1fVNZplHKGhmsoXVOWq578ycvDXB2crswbt4Iwu1r1CYi_HD2r3UJWjgDYtWVgFkIZt9PfwtpTNuthENGsV4xpZXwc.6CGHMIPJFVK1Zk3ZySztK3LZ8hon-RvgPdQaLdYZTdw&dib_tag=se&keywords=Mac%2BMini%2BM4&qid=1779853579&sprefix=mac%2Bmini%2Bm4%2Caps%2C180&sr=8-3&th=1
+
+
+
 Sí. Ese Mac Mini M4 que muestras es exactamente el tipo de máquina correcta para este proyecto.
 
 Pero hay un detalle MUY importante:
@@ -247,3 +252,8 @@ Confirmación técnica
 ```
 
 Eso es exactamente el enfoque correcto.
+
+
+
+
+
