@@ -1,3 +1,12 @@
+
+
+https://1drv.ms/o/c/8d74cdd378db5926/IgBzkucpWEv2SK1p6qVIEVrvAR7mV9g6hZHa2a0EvKRQ5rA?e=5AgP8v
+
+
+************************************************************
+
+
+
 Sí. Para tu proyecto sí hay diferencias importantes entre Raspberry Pi 4 y 5.
 
 Y honestamente:
