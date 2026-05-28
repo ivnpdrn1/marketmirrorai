@@ -1,3 +1,23 @@
+
+
+https://polygon.io/
+
+go to:
+
+https://massive.com/
+
+*******************************
+
+
+
+
+
+
+
+
+
+
+
 Para **MarketMirrorAI**, tu necesidad NO es simplemente “datos de mercado”.
 
 Tu necesidad real es:
