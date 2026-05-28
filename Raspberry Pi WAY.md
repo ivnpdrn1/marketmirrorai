@@ -1,3 +1,11 @@
+https://www.amazon.com/CanaKit-Raspberry-Starter-Kit-PRO/dp/B0CRSNCJ6Y/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.d87f3047-f6dc-4d16-8c9c-f92dc8d205b7%3Aamzn1.sym.d87f3047-f6dc-4d16-8c9c-f92dc8d205b7&crid=1FSJYA30B9EQZ&cv_ct_cx=Raspberry%2BPi%2B5%2B8GB&keywords=Raspberry%2BPi%2B5%2B8GB&pd_rd_i=B0CRSNCJ6Y&pd_rd_r=f7a7138d-d262-4af8-b9d5-4c7661801aa8&pd_rd_w=ZLNhr&pd_rd_wg=57vtP&pf_rd_p=d87f3047-f6dc-4d16-8c9c-f92dc8d205b7&pf_rd_r=VY2HZSKFEDZV1W50032Q&qid=1779927850&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=raspberry%2Bpi%2B5%2B8gb%2Caps%2C179&sr=1-2-5bd5d0f8-8e52-47e3-81d6-e0dd6cf384cf-spons&aref=je2JH7ILrU&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm&th=1
+
+
+
+***************************************************************************************
+
+
+
 Sí. Lo que quieres no es que OpenClaw “compre”, sino que funcione como:
 
 > **radar inteligente de noticias + detector de reacción del mercado + sistema de alerta para Calls/Puts.**
