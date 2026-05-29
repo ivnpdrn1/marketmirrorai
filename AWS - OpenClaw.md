@@ -633,6 +633,7 @@ Para la fase de exploración en la que estás hoy, el plan de $12 tiene sentido 
 <img width="1074" height="902" alt="image" src="https://github.com/user-attachments/assets/5119c13e-05b6-4190-8956-be852c87c85d" />
 
 
+<img width="1083" height="949" alt="image" src="https://github.com/user-attachments/assets/89be1991-a8a7-4872-905d-9f3327c28b87" />
 
 
 
