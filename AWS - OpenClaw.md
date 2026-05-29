@@ -416,4 +416,102 @@ Cuando termine de crearla y aparezca la pantalla principal de la instancia, env�
 * y dejarlo funcionando como observador de mercado.
 
 
+****************************************************************************************************************************************************************************
+****************************************************************************************************************************************************************************
+****************************************************************************************************************************************************************************
+
+Sí, me parece una decisión razonable para esta etapa.
+
+De hecho, AWS te está dando una pista importante en la parte inferior:
+
+> "Consider choosing a $24 USD (4 GB RAM) instance plan or larger"
+
+Eso significa que AWS estima que OpenClaw funcionará mejor con 4 GB, pero no necesariamente que no pueda arrancar con 2 GB.
+
+## Lo que yo haría en tu situación
+
+### Fase 1: Aprendizaje y pruebas
+
+**$12 / mes (2 GB RAM)**
+
+Objetivos:
+
+```text
+Instalar OpenClaw
+Aprender la interfaz
+Conectarlo a Bedrock
+Conectarlo a Telegram
+Subir algunos PDFs
+Entender cómo funciona su memoria
+Realizar pruebas de concepto
+```
+
+Para eso, 2 GB suelen ser suficientes.
+
+---
+
+### Fase 2: MarketMirrorAI Observer
+
+Cuando empieces a conectar:
+
+```text
+Noticias continuas
+Polygon
+Tradier
+Finnhub
+PDFs de metodología
+Memoria persistente
+Alertas automáticas
+```
+
+Entonces subiría a:
+
+**$24 / mes (4 GB RAM)**
+
+---
+
+## Ventaja importante de Lightsail
+
+Puedes escalar después.
+
+```text
+Hoy:
+$12 → 2 GB
+
+Mañana:
+$24 → 4 GB
+```
+
+Sin tener que rediseñar toda la arquitectura.
+
+---
+
+## Mi evaluación para tu proyecto
+
+| Etapa                          | Plan  |
+| ------------------------------ | ----- |
+| Aprender OpenClaw              | ✅ $12 |
+| Pruebas con PDFs               | ✅ $12 |
+| Conexión a Bedrock             | ✅ $12 |
+| MarketMirrorAI observador real | ✅ $24 |
+| Múltiples agentes simultáneos  | ✅ $44 |
+
+---
+
+Si tu objetivo durante las próximas semanas es simplemente responder preguntas como:
+
+> "¿Puede OpenClaw aprender mi metodología?"
+>
+> "¿Puede leer mis PDFs?"
+>
+> "¿Puede detectar patrones?"
+>
+> "¿Cómo se compara con mi workflow basado en LLM?"
+
+entonces yo empezaría con **$12** y usaría el ahorro para invertir antes en APIs de datos (Polygon, Tradier, Finnhub) o en Bedrock.
+
+Cuando OpenClaw demuestre valor real para MarketMirrorAI, el salto de $12 a $24 será una decisión muy fácil de justificar.
+
+
+
 
