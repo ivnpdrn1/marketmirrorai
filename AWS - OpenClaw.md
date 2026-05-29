@@ -512,6 +512,128 @@ entonces yo empezaría con **$12** y usaría el ahorro para invertir antes en AP
 
 Cuando OpenClaw demuestre valor real para MarketMirrorAI, el salto de $12 a $24 será una decisión muy fácil de justificar.
 
+****************************************************************************************************************************************************
+****************************************************************************************************************************************************
+****************************************************************************************************************************************************
+
+Perfecto.
+
+Ya estás en el último paso antes de crear la instancia.
+
+Yo haría dos pequeños cambios:
+
+### Nombre de la instancia
+
+En lugar de:
+
+```text
+OpenClaw-1
+```
+
+usaría algo más descriptivo:
+
+```text
+openclaw-marketmirror-lab
+```
+
+o
+
+```text
+openclaw-observer-dev
+```
+
+porque dentro de unos meses podrías tener:
+
+```text
+openclaw-observer-dev
+openclaw-observer-prod
+openclaw-backtesting
+openclaw-news-monitor
+```
+
+y será más fácil identificarlas.
+
+---
+
+### Cantidad
+
+Déjala en:
+
+```text
+1
+```
+
+---
+
+### Mi evaluación antes de crearla
+
+| Parámetro          | Estado             |
+| ------------------ | ------------------ |
+| Región Virginia    | ✅                  |
+| OpenClaw Blueprint | ✅                  |
+| SSH Key            | ✅                  |
+| General Purpose    | ✅                  |
+| 2 GB RAM           | ✅ Para aprendizaje |
+| 60 GB SSD          | ✅                  |
+| 3 TB transferencia | ✅                  |
+| 1 instancia        | ✅                  |
+
+---
+
+### Lo que espero que ocurra después
+
+AWS tardará aproximadamente:
+
+```text
+1 - 3 minutos
+```
+
+y luego verás algo similar a:
+
+```text
+OpenClaw-1
+Running
+Public IP: xx.xx.xx.xx
+```
+
+---
+
+### Lo primero que revisaremos después
+
+1. IP pública.
+2. Acceso SSH.
+3. URL de OpenClaw.
+4. Credenciales iniciales.
+5. Conexión con Bedrock.
+6. Cómo mantenerlo completamente aislado de MarketMirrorAI.
+
+---
+
+Mi recomendación en este momento sería:
+
+👉 **Crear la instancia con 2 GB ($12) y comenzar a aprender OpenClaw.**
+
+Si dentro de unas semanas notas:
+
+* lentitud,
+* uso constante de memoria,
+* múltiples agentes,
+* PDFs grandes,
+* monitoreo continuo de noticias,
+
+entonces haces el salto a 4 GB ($24).
+
+Para la fase de exploración en la que estás hoy, el plan de $12 tiene sentido económico y técnico.
+
+
+******************************************************************************************************************************************
+******************************************************************************************************************************************
+******************************************************************************************************************************************
+
+<img width="1074" height="902" alt="image" src="https://github.com/user-attachments/assets/5119c13e-05b6-4190-8956-be852c87c85d" />
+
+
+
 
 
 
