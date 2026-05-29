@@ -224,3 +224,196 @@ Decidir integración futura
 
 Cuando aparezca la siguiente pantalla de creación de la instancia, envíame una captura y te indicaré exactamente qué seleccionar en cada campo para dejarla lista para OpenClaw.
 
+
+****************************************************************************************************************************************************************************************
+****************************************************************************************************************************************************************************************
+****************************************************************************************************************************************************************************************
+
+Perfecto. Ahora sí puedo darte una recomendación precisa.
+
+## Lo que elegiría para MarketMirrorAI hoy
+
+### ✅ $24/mes (4 GB RAM, 2 vCPU, 80 GB SSD)
+
+Es exactamente el que tienes seleccionado.
+
+¿Por qué?
+
+| Recurso       | Valor  |
+| ------------- | ------ |
+| RAM           | 4 GB   |
+| CPU           | 2 vCPU |
+| SSD           | 80 GB  |
+| Transferencia | 4 TB   |
+
+Es suficiente para:
+
+✅ OpenClaw 24/7
+✅ Docker
+✅ Amazon Bedrock
+✅ PDFs de metodología
+✅ Monitoreo de noticias
+✅ Telegram/WhatsApp alerts
+✅ Bases de datos pequeñas
+✅ Experimentos con múltiples workflows
+
+---
+
+## Lo que NO recomiendo
+
+### $12 (2 GB)
+
+Funcionará.
+
+Pero cuando empieces a:
+
+```text
+PDFs grandes
+Noticias continuas
+Memoria persistente
+Docker
+Bedrock
+```
+
+vas a empezar a sentir limitaciones.
+
+---
+
+## Lo que tampoco recomiendo todavía
+
+### $44 (8 GB)
+
+Técnicamente mejor.
+
+Pero hoy no te dará el doble de valor.
+
+Tu cuello de botella no será RAM.
+
+Será:
+
+```text
+Metodología
+Prompts
+Fuentes de datos
+Alarmas
+Entrenamiento
+Comparación de resultados
+```
+
+---
+
+# Mi decisión
+
+Seleccionaría:
+
+### 🟢 $24 / mes
+
+y seguiría.
+
+---
+
+# Lo que haría después de crearla
+
+Fase 1:
+
+```text
+OpenClaw
+    ↓
+Bedrock
+    ↓
+Noticias
+    ↓
+Reportes
+```
+
+Fase 2:
+
+```text
+OpenClaw
+    ↓
+PDFs de tu metodología
+    ↓
+Aprende patrones
+    ↓
+Detecta señales
+```
+
+Fase 3:
+
+```text
+OpenClaw
+    ↓
+Polygon
+Tradier
+Finnhub
+    ↓
+Genera alertas
+```
+
+Fase 4:
+
+```text
+Comparación
+
+MarketMirrorAI
+        vs
+OpenClaw
+```
+
+---
+
+# Lo más interesante
+
+Tu idea de mantener OpenClaw aislado es probablemente la arquitectura correcta.
+
+```text
+MarketMirrorAI
+       │
+       │ Producción
+       │
+       ▼
+
+OpenClaw
+       │
+       │ Observa
+       │ Aprende
+       │ Reporta
+       ▼
+
+Ivan decide
+```
+
+No permites que OpenClaw cambie nada.
+
+Solo produce análisis.
+
+Eso reduce enormemente el riesgo mientras construyes confianza en sus resultados.
+
+## Siguiente paso
+
+Puedes continuar con:
+
+1. Nombre de la instancia:
+
+   ```text
+   openclaw-marketmirror-observer
+   ```
+
+2. Cantidad:
+
+   ```text
+   1
+   ```
+
+3. Crear instancia.
+
+Cuando termine de crearla y aparezca la pantalla principal de la instancia, envíame una captura y te guiaré para:
+
+* obtener la IP pública,
+* entrar por SSH,
+* acceder a OpenClaw,
+* conectarlo a Bedrock,
+* y dejarlo funcionando como observador de mercado.
+
+
+
