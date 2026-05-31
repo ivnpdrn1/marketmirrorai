@@ -166,3 +166,20 @@ Agents
 en el menú izquierdo y envíame una captura.
 
 A partir de ahí comenzaremos a convertir esta instalación básica de OpenClaw en el **Shadow Agent de MarketMirrorAI**, que es exactamente la arquitectura que has estado planteando: OpenClaw observando, aprendiendo y comparando resultados contra la rama principal antes de tomar un rol más activo. 🚀
+
+
+
+****************************************************************************************************************************
+****************************************************************************************************************************
+****************************************************************************************************************************
+
+
+<img width="1510" height="968" alt="image" src="https://github.com/user-attachments/assets/130763d0-a695-4a47-a514-a8c5b5acf69b" />
+
+
+
+TOKEN
+GSawCb5CmaEpql1s4DZGjAGQ5ivPjHyF
+
+<img width="1449" height="932" alt="image" src="https://github.com/user-attachments/assets/6150496d-2ecb-49a9-b696-5d06ce3293d6" />
+
