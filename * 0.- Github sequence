@@ -1,0 +1,128 @@
+Sí, exactamente. A partir de ahora tu flujo normal será:
+
+```bash
+cd ~/.openclaw/workspace/marketmirrorai
+```
+
+Ver qué cambió:
+
+```bash
+git status
+```
+
+Agregar los cambios:
+
+```bash
+git add .
+```
+
+Crear un commit descriptivo:
+
+```bash
+git commit -m "Agregado MMAI-016 y reglas de validacion"
+```
+
+Subir al repositorio:
+
+```bash
+git push
+```
+
+Como ya configuraste el tracking con:
+
+```bash
+git push -u origin main
+```
+
+la primera vez, normalmente ya no necesitas escribir:
+
+```bash
+git push -u origin main
+```
+
+Bastará con:
+
+```bash
+git push
+```
+
+---
+
+### Flujo recomendado para MarketMirrorAI
+
+Antes de empezar una sesión:
+
+```bash
+cd ~/.openclaw/workspace/marketmirrorai
+git pull
+```
+
+Esto trae cualquier cambio que exista en GitHub.
+
+Al terminar tu trabajo:
+
+```bash
+git add .
+git commit -m "Descripcion de los cambios"
+git push
+```
+
+---
+
+### Ejemplos de mensajes útiles
+
+```bash
+git commit -m "Incorporados libros OCR de opciones"
+```
+
+```bash
+git commit -m "Creados patrones MMAI-016 a MMAI-020"
+```
+
+```bash
+git commit -m "Agregadas reglas de deteccion de cambio de tendencia"
+```
+
+```bash
+git commit -m "Actualizado curriculum de Market Transition Theory"
+```
+
+```bash
+git commit -m "Shadow Agent aprendizaje semana 1"
+```
+
+---
+
+### Un hábito que te recomiendo
+
+Antes de hacer `git add .`, ejecuta:
+
+```bash
+git status
+```
+
+Así verificas que no estés subiendo accidentalmente:
+
+```text
+logs/
+state/
+API keys
+archivos temporales
+```
+
+Aunque tu `.gitignore` ya protege bastante bien el proyecto.
+
+---
+
+### Para tu proyecto MarketMirrorAI
+
+Yo haría un respaldo importante cada vez que:
+
+* Se agregue un libro nuevo.
+* Se creen nuevos patrones MMAI.
+* Se modifiquen reglas de decisión.
+* Se agreguen validaciones históricas.
+* OpenClaw aprenda una nueva técnica relevante.
+* Se complete una fase importante del Shadow Agent.
+
+De esa forma tendrás una línea de tiempo completa de la evolución del conocimiento de MarketMirrorAI y podrás volver a cualquier versión anterior si alguna modificación no funciona como esperabas.
